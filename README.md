@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Adrewcav
+### Hi, I’m Andrew (@Adrewcav)
 
 ### I'm passionate about software and data!
 - 👀 I’m interested in Data Science.
