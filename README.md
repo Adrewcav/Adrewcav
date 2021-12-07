@@ -9,6 +9,9 @@ Adrewcav/Adrewcav is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
- <img align="left" alt="HTML5" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
- <img align="left" alt="HTML5" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="left" alt="HTML5" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+ <img align="left" alt="HTML5" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+ <img align="left" alt="HTML5" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+ <img align="left" alt="HTML5" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+ <img align="left" alt="HTML5" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+ <img align="left" alt="HTML5" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+ <img align="left" alt="HTML5" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
