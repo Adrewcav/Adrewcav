@@ -17,3 +17,4 @@ You can click the Preview link to take a look at your changes.
  <img align="left" alt="HTML5" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
  <img align="left" alt="HTML5" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
  <img align="left" alt="HTML5" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+ <img align="left" alt="HTML5" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
