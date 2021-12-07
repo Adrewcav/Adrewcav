@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Adrewcav
+### 👋 Hi, I’m @Adrewcav
+
+### I'm passionate about software and data!
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on data analysis projects. 
