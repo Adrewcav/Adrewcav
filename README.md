@@ -2,7 +2,7 @@
 
 ### I'm passionate about software and data!
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python & Tensorflow.
 - 💞️ I’m looking to collaborate on data analysis projects. 
 - 📫 How to reach me andrew.s.cavalier@gmail.com  and my [website](andrewscavalier.com).
 
