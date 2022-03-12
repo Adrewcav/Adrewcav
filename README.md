@@ -1,7 +1,7 @@
 ### Hi, I’m Andrew (@Adrewcav)
 
 ### I'm passionate about software and data!
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently learning MERN. 
 - 💞️ I’m looking to collaborate on Web Applications. 
 - 📫 How to reach me andrew.s.cavalier@gmail.com and my [website](https://www.andrewscavalier.com/).
