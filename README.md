@@ -1,10 +1,10 @@
 ### Hi, I’m Andrew (@Adrewcav)
 
 ### I'm passionate about software and data!
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python & Tensorflow.
-- 💞️ I’m looking to collaborate on data analysis projects. 
-- 📫 How to reach me andrew.s.cavalier@gmail.com  and my [website](andrewscavalier.com).
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning MERN. 
+- 💞️ I’m looking to collaborate on Web Applications. 
+- 📫 How to reach me andrew.s.cavalier@gmail.com and my [website](andrewscavalier.com).
 
 <!---
 Adrewcav/Adrewcav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
