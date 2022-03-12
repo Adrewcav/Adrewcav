@@ -1,9 +1,9 @@
 ### Hi, I’m Andrew (@Adrewcav)
 
 ### I'm passionate about software and web development!
-- 👀 I’m interested in Full Stack Web Development.
+- 👀 I’m interested in full stack web development.
 - 🌱 I’m currently learning MEAN/MERN. 
-- 💞️ I’m looking to collaborate on Web & Mobile Applications. 
+- 💞️ I’m looking to collaborate on web & mobile applications. 
 - 📫 How to reach me andrew.s.cavalier@gmail.com and my WIX [website](https://www.andrewscavalier.com/).
 
 <!---
