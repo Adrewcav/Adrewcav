@@ -1,6 +1,6 @@
 ### Hi, I’m Andrew (@Adrewcav)
 
-### I'm passionate about software and data!
+### I'm passionate about software and web development!
 - 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently learning MEAN/MERN. 
 - 💞️ I’m looking to collaborate on Web Applications. 
